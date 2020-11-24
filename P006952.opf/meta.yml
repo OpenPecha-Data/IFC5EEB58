@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS91829
   title: རེབ་གོང་ཡུལ་སྐོར་ཟིན་ཐོ
-  volume: ''
+  volume:
+    760a5110ac934a229c05081b1d19d92a:
+      image_group_id: I00KG07099
+      title: Volume 1 of reb gong yul skor zin tho
+      volume_number: 1
+      total_pages: 642
   author: ''
+ebook_metadata:
+  title: རེབ་གོང་ཡུལ་སྐོར་ཟིན་ཐོ
+  author: ''
+  sku: P006952
+  cover: cover.jpg
+  layers:
+  - pagination
